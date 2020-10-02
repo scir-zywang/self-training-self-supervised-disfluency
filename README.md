@@ -1,6 +1,10 @@
 # self-training-self-supervised-disfluency
 
-This work is a method to combine self-training and self-supervised learning for unsupervised disfluency detection.
+Combining Self-Training and Self-Supervised Learning for Unsupervised
+Disfluency Detection
+
+This repo contains the code and model used for Combining Self-Training and Self-Supervised Learning for Unsupervised
+Disfluency Detection (EMNLP 2020).
 
 The code and model is coming soon.
 
