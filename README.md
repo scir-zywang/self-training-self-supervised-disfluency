@@ -13,6 +13,7 @@ All the code and model are released. Thank you for your patience!
 We release our self-supervised model trained by pseudo data and grammar check model. Please download it in the following link, and put model in "self_supervised_model" and "grammar_check_model " folder.
 
 [grammar_check_model][grammar_check_model]
+
 [self_supervised_model][self_supervised_model]
 
 
