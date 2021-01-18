@@ -36,5 +36,16 @@ nohup sh run.sh 0 > log_run 2>&1 &
 
 This repo need to be run on GPU, and it will cost 10G GPU RAM.
 
+## Citation
+
+```
+@article{wang2020combining,
+  title={Combining Self-Training and Self-Supervised Learning for Unsupervised Disfluency Detection},
+  author={Wang, Shaolei and Wang, Zhongyuan and Che, Wanxiang and Liu, Ting},
+  journal={arXiv preprint arXiv:2010.15360},
+  year={2020}
+}
+```
+
 ## Contact
 zywang@ir.hit.edu.cn and slwang@ir.hit.edu.cn
